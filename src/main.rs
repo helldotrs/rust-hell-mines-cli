@@ -29,7 +29,7 @@ fn main() {
   
   let example_mine_sq_u1v1 = Sq{
     u       = 1, 
-    v       =1,
+    v       = 1,
     
     hidden  = true,
     mine    = true,
