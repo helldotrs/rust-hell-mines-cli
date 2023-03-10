@@ -37,3 +37,7 @@ fn main() {
     nearby  = 0 //should be set with a function, after the whole map is generated.
   }
 }
+
+fn check_nearby(a) --> u8 {
+  //FIXME
+}
