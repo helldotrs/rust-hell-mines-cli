@@ -6,6 +6,7 @@ struct Sq {
   mine: bool,
   
   nearby: u8 //how to mut??
+              //shaddow the original struct?
 }
 
 fn main() {
