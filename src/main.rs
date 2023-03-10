@@ -14,11 +14,15 @@ fn main() {
   let rows = 2;
   let cols = 2;
   
-  let mut my_grid = vec![vec![MyStruct { 
-    u: 0, v: 0, //FIXME: auto increase
-    hidden: true, mine: true, //FIXME: set mine with auto function
-    nearby: 0, //FIXME/ADD: changed afterwards, based on nearby
-    }; cols]; rows];
+  let mut my_grid = vec![
+    vec![
+      MyStruct { 
+        u: 0, v: 0, //FIXME: auto increase
+        hidden: true, mine: true, //FIXME: set mine with auto function
+        nearby: 0, //FIXME/ADD: changed afterwards, based on nearby
+      }; cols
+    ]; rows
+  ];
 
   
   
