@@ -20,3 +20,4 @@ bit_u2v0 = GridBit(u=0, v=0)
 bit_u2v1 = GridBit(u=0, v=0)
 bit_u2v2 = GridBit(u=0, v=0)
 
+
