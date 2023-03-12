@@ -9,3 +9,14 @@ class GridBit:
         self.nearby = 0
 
 bit_u0v0 = GridBit(u=0, v=0)
+bit_u0v1 = GridBit(u=0, v=0)
+bit_u0v2 = GridBit(u=0, v=0)
+
+bit_u1v0 = GridBit(u=0, v=0)
+bit_u1v1 = GridBit(u=0, v=0)
+bit_u1v2 = GridBit(u=0, v=0)
+
+bit_u2v0 = GridBit(u=0, v=0)
+bit_u2v1 = GridBit(u=0, v=0)
+bit_u2v2 = GridBit(u=0, v=0)
+
