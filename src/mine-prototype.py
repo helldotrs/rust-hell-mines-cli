@@ -10,10 +10,10 @@ class GridBit:
         
 for v in range(5):
     for u in range(10):
-        print(u, end="")
-        print(",", end="")
-        print(v, end="")
-        print(" ")
+        print(u,    end="")
+        print(",",  end="")
+        print(v,    end="")
+        print(" ",  end="")
     print("")
         
         
