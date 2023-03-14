@@ -8,6 +8,8 @@ class GridBit:
         self.mine = random.random() < 0.2
         self.nearby = 0
 
+map = []        
+        
 #prints a UV map       
 for v in range(5):
     for u in range(10):
